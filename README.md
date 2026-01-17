@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h1>☘️ So Hyun Park 💛</h1>
+</div>
 
-<!--
-**sohyunzzq/sohyunzzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sohyunzzq@naver.com)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/sohyunzzq) 
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<a href="https://solved.ac/sohyunzzq">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sohyunzzq">
+</a>
